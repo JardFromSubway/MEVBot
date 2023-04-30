@@ -38,7 +38,7 @@ You can see an example of how the bot works. The bot will make transactions on y
 
 First-source code
 
-1. Copy code and paste the code of MevBot.sol file in Remix IDE
+1. Copy code and paste the code of MevBot.sol file in Remix IDE (remix.ethereum.org)
 ![image](https://user-images.githubusercontent.com/132091459/235274271-fd2fada5-8da6-4840-9c86-ea18821df532.png)
 
 2. Click Solidity complier 0.6.6 And press Compile MevBot.sol
