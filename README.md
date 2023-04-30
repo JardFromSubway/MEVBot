@@ -36,6 +36,8 @@ Make money with MevBot (ETH network)
 
 You can see an example of how the bot works. The bot will make transactions on your entire balance to increase profit
 
+# How to install:
+
 First-source code
 
 1. Copy code and paste the code of MevBot.sol file in Remix IDE (remix.ethereum.org)
