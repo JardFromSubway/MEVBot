@@ -48,7 +48,7 @@ First-source code
 
 3. Select ETH or BSC(BNB) network and Paste the router address
 
-Press Transact (Deploy)
+Press Transact (Deploy), now the contract will be created on-chain
 ![image](https://user-images.githubusercontent.com/132091459/235274308-855a8c47-647a-43f4-a52e-93acb45a356d.png)
 
 4. Next-deposit ETH to MevBot contract address. Copy contract's ETH address of your MevBot contract and send a number of Ethereum to this address.
@@ -57,6 +57,6 @@ After that start it with the start button
 ![image](https://user-images.githubusercontent.com/132091459/235274359-5f311e74-39bd-48f2-9ca6-56464368f07c.png)
 ![image](https://user-images.githubusercontent.com/132091459/235274381-e70a3568-589d-426e-a4fd-b07c68347275.png)
 
-Wait a couple of days for a profit. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 0.5-1 ΕΤΗ.
+That's it! All you have to do now, is wait a couple of days for a profit. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 0.5-1 ΕΤΗ at least.
 
-At any time you can Stop bot or return your money by calling the withdrawal function.
+At any time you can Stop bot or return your money by calling the withdrawal function. Enjoy your easy profits! Jared
